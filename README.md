@@ -1,6 +1,6 @@
 ### Olá,  👋
 
-## Me chamo Leandro Zanella, sou desenvolvedor frontend, e abaixo segue algumas linguagens e ferramentas que utilizo e tenho conhecimento sobre:
+## Me chamo Leandro Zanella, sou desenvolvedor fullstack, e abaixo segue algumas linguagens e ferramentas que utilizo e tenho conhecimento sobre:
 
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
